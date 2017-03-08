@@ -1,4 +1,4 @@
-## ultra6lue (Rio)
+### ultra6lue (Rio)
 ![Image](img/ultra6lue.png)　　
 
 ### skills summary
