@@ -1,5 +1,5 @@
 ## ultra6lue (Rio)
-![Image](https://github.com/ultra6lue/ultra6lue.github.io/img/ultra6lue.png)　　
+![Image](img/ultra6lue.png)　　
 
 ### skills summary
 
