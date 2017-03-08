@@ -8,12 +8,12 @@
   Systems: Unix, Linux, Windows, Apache Tomcat  
 - 2 years experience in Technical Sales
 - 10 years experience in Enterprise Marketing,including 2 years experience as Cloud Field Marketer  
-  Marketing Strategies & Campaigns  
-  Product Positioning & Branding  
-  New Product Launch  
-  Web & Print Content Development    
+  *Marketing Strategies & Campaigns  
+  *Product Positioning & Branding  
+  *New Product Launch  
+  *Web & Print Content Development    
   
-### My works
+### Representative Projects (2000 to 2016)
 
 1. Digital Network MP3 test-listening service (2000 Server-side proguram development lead) 
 http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html
