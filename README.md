@@ -36,17 +36,17 @@
 (2012)  
 ![Image](img/ow_mh_inside_2.jpg)  
 
-- _Role:_ overall project lead
+- _Role:_ Project Lead
 - _Objectives:_ Promote IBM Cloud Business vision and brand leadership
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
 [some more fun for you!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
 
 [Fortune Cookie in Love video promotion:Dancing with IBM Clients](https://www.youtube.com/watch?v=URLrRwlu6qI)
-(2013 Producer)  
+(2013)  
 ![Image](img/fc.png)  
 
-- _Role:_ overall project lead
+- _Role:_ Producer
 - _Objectives:_ Promote IBM Cloud Business vision and brand leadership
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
@@ -55,7 +55,7 @@
 
 ![Image](img/hc.jpg)  
 
-- _Role:_ overall project lead
+- _Role:_ Project lead
 - _Objectives:_ Promote IBM Cloud Business vision and brand leadership
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
