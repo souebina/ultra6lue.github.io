@@ -18,9 +18,11 @@
 
 1. [Digital Network MP3 test-listening service](http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html)
 (2000 Server-side program development lead)
+![Image](img/kc.jpg)   
 
 2. [TV-Asahi corp. website renewal](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
 (2004 Server side application development team lead)
+![Image](img/tva.png)   
 
 3. [Oracle OpenWorld Tokyo 2012](http://www.fujitsu.com/jp/products/computing/servers/unix/sparc-enterprise/events/oracle-ow/2012/correspondent/)
 (2012 project manager)  
