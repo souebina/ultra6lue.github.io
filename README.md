@@ -34,11 +34,11 @@
 
 5. **[Hybrid Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/?S_PKG=&cm_mmc=Search_Google-_-9.1+MO+Mktg+Plan+Unknown_CA+Cloud-_-JP_JP-_-IBM+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89_Broad_&cm_mmca1=000004QF&cm_mmca2=00000000&mkwid=8dbe2077-1563-4ff3-a8d2-75b2667c0fe0%7C620%7C13884)
 (2016)**  
+![Image](img/hc.jpg)  
+
 - _Role:_ overall project lead
 - _Objectives:_ Promote IBM Cloud Business vision and brand leadership  
-- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)
-
-![Image](img/hc.jpg)  
+- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
 
 ```markdown
