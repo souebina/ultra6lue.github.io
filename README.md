@@ -36,8 +36,9 @@
 (2016 overall project lead)  
 ![Image](img/hc.jpg)  　
 
-Objectives:Promote IBM Cloud Business vision and brand leadership  
-Project Results:Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)
+- **Role:**overall project lead
+- **Objectives:**Promote IBM Cloud Business vision and brand leadership  
+- **Results:**Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)
 
 
 
