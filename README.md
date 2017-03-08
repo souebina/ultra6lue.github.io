@@ -27,7 +27,7 @@
 3. [Oracle OpenWorld Tokyo 2012](http://www.fujitsu.com/jp/products/computing/servers/unix/sparc-enterprise/events/oracle-ow/2012/correspondent/)
 (2012 project manager)  
 ![Image](img/ow_mh_inside_2.jpg)   
-[& some fun!](https://www.youtube.com/watch?v=QOyrynZq_0I/)
+[have some fun!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
 
 4. [Fortune Cookie in Love video promotion:Dancing with IBM Clients](https://www.youtube.com/watch?v=URLrRwlu6qI)
 (2013 Producer)  
