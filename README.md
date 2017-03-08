@@ -1,6 +1,9 @@
-## Welcome to My Pages
+### ultra6lue(Rio)
 
-https://github.com/ultra6lue/GitHub-Japan-Marketing-Plan
+- 8 years experience in developing web application using open source architectures (e.g.: Java,PHP,Perl,Linux,PostgresSQL,Apache Tomcat)
+- 2 years experience in Technical Sales
+- 10 years experience in Enterprise Marketing,including 2 years experience as Cloud Field Marketer
+
 
 You can use the [editor on GitHub](https://github.com/ultra6lue/ultra6lue.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
