@@ -1,17 +1,17 @@
-### ultra6lue(Rio)
+### ultra6lue (Rio)
 
-- 8 years experience in developing web application using open source architectures (e.g.: Java,PHP,Perl,Linux,PostgresSQL,Apache Tomcat)
+- 8 years experience in developing web-based applications using open source architecture
+  (e.g.: C, C++, Java, PHP, Perl, Linux, PostgreSQL, Apache Tomcat)
 - 2 years experience in Technical Sales
 - 10 years experience in Enterprise Marketing,including 2 years experience as Cloud Field Marketer
 
+Syntax highlighted code block
+## My works
 
-You can use the [editor on GitHub](https://github.com/ultra6lue/ultra6lue.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. TV-Asahi corp. website (20CMS project lead)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. Oracle OpenWorld Tokyo 2012 (2012:Project Lead)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
