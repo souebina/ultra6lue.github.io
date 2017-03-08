@@ -13,11 +13,13 @@
   * Product Positioning & Branding  
   * New Product Launch  
   * Web & Print Content Development    
-  
+
+
 ### Representative Projects (2000 to 2016)
 
 [Digital Network MP3 test-listening service](http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html)
 (2000)  
+
 ![Image](img/kc.jpg)  
 
 - _Role:_ overall project lead
@@ -26,6 +28,7 @@
 
 [TV-Asahi corp. website renewal](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
 (2004)  
+
 ![Image](img/tva.png)  
 
 - _Role:_ overall project lead
@@ -44,6 +47,7 @@
 
 [Fortune Cookie in Love video promotion:Dancing with IBM Clients](https://www.youtube.com/watch?v=URLrRwlu6qI)
 (2013)  
+
 ![Image](img/fc.png)  
 
 - _Role:_ Producer
