@@ -12,6 +12,7 @@
   * Marketing Strategies & Campaigns  
   * Product Positioning & Branding  
   * New Product Launch  
+  * Signature event project management
   * Web & Print Content Development    
 
 
@@ -19,7 +20,6 @@
 
 [Digital Network MP3 test-listening service](http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html)
 (2000)  
-
 ![Image](img/kc.jpg)  
 
 - _Role:_ overall project lead
@@ -28,7 +28,6 @@
 
 [TV-Asahi corp. website renewal](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
 (2004)  
-
 ![Image](img/tva.png)  
 
 - _Role:_ overall project lead
@@ -47,7 +46,6 @@
 
 [Fortune Cookie in Love video promotion:Dancing with IBM Clients](https://www.youtube.com/watch?v=URLrRwlu6qI)
 (2013)  
-
 ![Image](img/fc.png)  
 
 - _Role:_ Producer
@@ -56,7 +54,6 @@
 
 [Hybrid Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/?S_PKG=&cm_mmc=Search_Google-_-9.1+MO+Mktg+Plan+Unknown_CA+Cloud-_-JP_JP-_-IBM+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89_Broad_&cm_mmca1=000004QF&cm_mmca2=00000000&mkwid=8dbe2077-1563-4ff3-a8d2-75b2667c0fe0%7C620%7C13884)
 (2016)   
-
 ![Image](img/hc.jpg)  
 
 - _Role:_ Project lead
