@@ -21,7 +21,7 @@
 ![Image](img/kc.jpg)  
 
 - _Role:_ overall project lead
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership  
+- _Objectives:_ Promote IBM Cloud Business vision and brand leadership
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
 2. [TV-Asahi corp. website renewal](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
@@ -29,7 +29,7 @@
 ![Image](img/tva.png)  
 
 - _Role:_ overall project lead
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership  
+- _Objectives:_ Promote IBM Cloud Business vision and brand leadership
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
 3. [Oracle OpenWorld Tokyo 2012](http://www.fujitsu.com/jp/products/computing/servers/unix/sparc-enterprise/events/oracle-ow/2012/correspondent/)
@@ -37,7 +37,7 @@
 ![Image](img/ow_mh_inside_2.jpg)  
 
 - _Role:_ overall project lead
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership  
+- _Objectives:_ Promote IBM Cloud Business vision and brand leadership
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
 [have some fun!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
@@ -47,7 +47,7 @@
 ![Image](img/fc.png)  
 
 - _Role:_ overall project lead
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership  
+- _Objectives:_ Promote IBM Cloud Business vision and brand leadership
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
 5. [Hybrid Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/?S_PKG=&cm_mmc=Search_Google-_-9.1+MO+Mktg+Plan+Unknown_CA+Cloud-_-JP_JP-_-IBM+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89_Broad_&cm_mmca1=000004QF&cm_mmca2=00000000&mkwid=8dbe2077-1563-4ff3-a8d2-75b2667c0fe0%7C620%7C13884)
@@ -56,7 +56,7 @@
 ![Image](img/hc.jpg)  
 
 - _Role:_ overall project lead
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership  
+- _Objectives:_ Promote IBM Cloud Business vision and brand leadership
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
 
