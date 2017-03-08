@@ -5,13 +5,19 @@
 - 2 years experience in Technical Sales
 - 10 years experience in Enterprise Marketing,including 2 years experience as Cloud Field Marketer
 
-```markdown
-Syntax highlighted code block
 ### My works
 
-1. TV-Asahi corp. website (20CMS project lead)
+1. Digital Network MP3 test-listening service (2000 Server-side proguram development lead) 
+http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html
 
-2. Oracle OpenWorld Tokyo 2012 (2012:Project Lead)
+2. TV-Asahi corp. website (2004 CMS project lead)
+http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html
+
+3. Oracle OpenWorld Tokyo 2012 (2012 Overall Project Lead)
+http://www.fujitsu.com/jp/products/computing/servers/unix/sparc-enterprise/events/oracle-ow/2012/correspondent/
+
+4. Fortune Cookie in Love video promotion (2013 Producer)
+https://www.youtube.com/watch?v=URLrRwlu6qI
 
 
 ```markdown
