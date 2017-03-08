@@ -4,9 +4,9 @@
 ### skills summary
 
 - 8 years experience in developing web-based applications using open source architecture
-  Languages: C, C++, Java, PHP, Perl  
-  Databases: Oracle, PostgreSQL  
-  Systems: Unix, Linux, Windows, Apache Tomcat  
+  _Languages:_ C, C++, Java, PHP, Perl  
+  _Databases:_ Oracle, PostgreSQL  
+  _Systems:_ Unix, Linux, Windows, Apache Tomcat  
 - 2 years experience in Technical Sales
 - 10 years experience in Enterprise Marketing,including 2 years experience as Cloud Field Marketer  
   * Marketing Strategies & Campaigns  
