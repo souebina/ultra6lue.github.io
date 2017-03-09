@@ -3,7 +3,7 @@
 
 ### skills summary
 
-- 8 years experience in developing web-based applications using open source architecture
+- 8 years experience in developing web-based applications using open source architecture  
   _Languages:_ C, C++, Java, PHP, Perl  
   _Databases:_ Oracle, PostgreSQL  
   _Systems:_ Unix, Linux, Windows, Apache Tomcat  
