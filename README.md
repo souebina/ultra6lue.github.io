@@ -26,20 +26,20 @@
 - _Objectives:_ Promote IBM Cloud Business vision and brand leadership
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
-[TV-Asahi corp. website renewal](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
+[TV-Asahi corp. CMS renewal project](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
 (2004)  
 ![Image](img/tva.png)  
 
-- _Role:_ overall project lead
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership
-- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
+- _Role:_ Application Development Team Leader
+- _Objectives:_ Project aimed to integrate not only digital data broadcasting system with an existing web site,but also integration of scattered customer data.
+- _Results:_ Whole system was safely launched in June 2004 with flexibility and agility.The first case in Japanese B2C website.The first case in Japanese B2C website to adapt PHP  
 
 [Oracle OpenWorld Tokyo 2012](http://www.fujitsu.com/jp/products/computing/servers/unix/sparc-enterprise/events/oracle-ow/2012/correspondent/)
 (2012)  
 ![Image](img/ow_mh_inside_2.jpg)  
 
 - _Role:_ Project Manager
-- _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference.The world's first conference that connects Tokyo and Kyoto via satellite.
+- _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference.The world's first conference that connects Tokyo and Kyoto via satellite.We jacked Roppongi and paint everything in "Oracle Red".
 - _Results:_ 15,000+ attendees with 100 Direct Opportunities,$35M business pipeline 
 
 [some more funny videos!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
@@ -57,7 +57,7 @@
 ![Image](img/hc.jpg)  
 
 - _Role:_ Project Manager
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership through integrated digital campaign
+- _Objectives:_ Promote IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team.
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
 
