@@ -32,14 +32,14 @@
 
 - _Role:_ Application Development Team Leader
 - _Objectives:_ Project aimed to integrate not only digital data broadcasting system with an existing web site,but also integration of scattered customer data.
-- _Results:_ Whole system was safely launched in June 2004 with flexibility and agility.The first case in Japanese B2C website.The first case in Japanese B2C website to adapt PHP  
+- _Results:_ Whole system was safely launched in June 2004 with flexibility and agility.The first case in Japanese B2C website to adapt PHP for primary language.
 
 [Oracle OpenWorld Tokyo 2012](http://www.fujitsu.com/jp/products/computing/servers/unix/sparc-enterprise/events/oracle-ow/2012/correspondent/)
 (2012)  
 ![Image](img/ow_mh_inside_2.jpg)  
 
 - _Role:_ Project Manager
-- _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference.The world's first conference that connects Tokyo and Kyoto via satellite.We jacked Roppongi and paint everything in "Oracle Red".
+- _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference.The world's first conference that connects Tokyo and Kyoto via satellite.
 - _Results:_ 15,000+ attendees with 100 Direct Opportunities,$35M business pipeline 
 
 [some more funny videos!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
@@ -49,16 +49,22 @@
 ![Image](img/fc.png)  
 
 - _Role:_ Producer
-- _Objectives:_ Develop new/deeper relationship with IT startup company’s Executives through new and novel approach, to create new demand and revenue opportunities in white market
-- _Results:_ No.3 Total PV ranking in IBM Japan (942,584 PVs/ as of Mar8,2017)
+- _Objectives:_ Develop new/deeper relationship with IT startup company’s Executives through new and novel approach, to create new demand and revenue opportunities in white market.
+- _Results:_ No.3 Total PV ranking in IBM Japan (942,584 PVs/as of Mar8,2017)
 
 [Hybrid Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/?S_PKG=&cm_mmc=Search_Google-_-9.1+MO+Mktg+Plan+Unknown_CA+Cloud-_-JP_JP-_-IBM+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89_Broad_&cm_mmca1=000004QF&cm_mmca2=00000000&mkwid=8dbe2077-1563-4ff3-a8d2-75b2667c0fe0%7C620%7C13884)
 (2016)   
 ![Image](img/hc.jpg)  
 
 - _Role:_ Project Manager
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team.
-- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
+- _Objectives:_ Promote IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
+- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Dec4,2016)  
+
+
+
+
+
+
 
 
 ```markdown
