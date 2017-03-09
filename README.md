@@ -22,9 +22,9 @@
 (2000)  
 ![Image](img/kc.jpg)  
 
-- _Role:_ overall project lead
+- _Role:_ Server-Side Application development
 - _Objectives:_ Introduced and operated new computerized system for Digital Network MP3 test-listening service with Pioneer Corporation.  
-- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
+- _Results:_ The Japan first large-scale system development reference to adapt Linux for operating system.
 
 [TV-Asahi corp. CMS renewal project](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
 (2004)  
