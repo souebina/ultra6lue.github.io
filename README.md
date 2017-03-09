@@ -56,7 +56,7 @@
 (2016)   
 ![Image](img/hc.jpg)  
 
-- _Role:_ Project lead
+- _Role:_ Project Manager
 - _Objectives:_ Promote IBM Cloud Business vision and brand leadership through integrated digital campaign
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
