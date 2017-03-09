@@ -38,19 +38,19 @@
 (2012)  
 ![Image](img/ow_mh_inside_2.jpg)  
 
-- _Role:_ Project Lead
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership
-- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
+- _Role:_ Project Manager
+- _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference,including executive summit held in Kyoto
+- _Results:_ 15,000+ attendees with 100 Direct Opportunities,$35M business pipeline 
 
-[some more fun for you!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
+[some more funny videos!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
 
-[Fortune Cookie in Love video promotion:Dancing with IBM Clients](https://www.youtube.com/watch?v=URLrRwlu6qI)
+[“Fortune Cookie in Love” video promotion](https://www.youtube.com/watch?v=URLrRwlu6qI)
 (2013)  
 ![Image](img/fc.png)  
 
 - _Role:_ Producer
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership
-- _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
+- _Objectives:_ Develop new/deeper relationship with IT startup company’s Executives through new and novel approach, to create new demand and revenue opportunities in white market
+- _Results:_ No.3 Total PV ranking in IBM Japan (942,584 PVs/ as of Mar8,2017)
 
 [Hybrid Cloud Digital promotion](https://www.ibm.com/cognitive/jp-ja/cloud-for-cognitive/?S_PKG=&cm_mmc=Search_Google-_-9.1+MO+Mktg+Plan+Unknown_CA+Cloud-_-JP_JP-_-IBM+%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89_Broad_&cm_mmca1=000004QF&cm_mmca2=00000000&mkwid=8dbe2077-1563-4ff3-a8d2-75b2667c0fe0%7C620%7C13884)
 (2016)   
