@@ -1,4 +1,4 @@
-### ultra6lue (Rio)
+### Sosuke Ebina (Rio)
 ![Image](img/ultra6lue.png)　　
 
 ### skills summary
@@ -18,12 +18,12 @@
 
 ### Representative Projects (2000 to 2016)
 
-[Digital Network MP3 test-listening service](http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html)
+[Digital Network MP3 Test-Listening System](http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html)
 (2000)  
 ![Image](img/kc.jpg)  
 
 - _Role:_ overall project lead
-- _Objectives:_ Promote IBM Cloud Business vision and brand leadership
+- _Objectives:_ Introduced and operated new computerized system for Digital Network MP3 test-listening service with Pioneer Corporation.  
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140%(Plan:18,480 visits vs Actual:25,768 visits: data as of Dec4,2016)  
 
 [TV-Asahi corp. CMS renewal project](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
@@ -31,7 +31,7 @@
 ![Image](img/tva.png)  
 
 - _Role:_ Application Development Team Leader
-- _Objectives:_ Project aimed to integrate not only digital data broadcasting system with an existing web site,but also integration of scattered customer data.
+- _Objectives:_ Project aimed to integrate digital data broadcasting system with an existing web site,scattered customer data as well.  
 - _Results:_ Whole system was safely launched in June 2004 with flexibility and agility.The first case in Japanese B2C website to adapt PHP for primary language.
 
 [Oracle OpenWorld Tokyo 2012](http://www.fujitsu.com/jp/products/computing/servers/unix/sparc-enterprise/events/oracle-ow/2012/correspondent/)
@@ -61,36 +61,3 @@
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Dec4,2016)  
 
 
-
-
-
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ultra6lue/ultra6lue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
