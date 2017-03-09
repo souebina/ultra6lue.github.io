@@ -24,7 +24,7 @@
 
 - _Role:_ Server-Side Application development
 - _Objectives:_ Introduced and operated new computerized system for Digital Network MP3 test-listening service with Pioneer Corporation.  
-- _Results:_ The Japan first large-scale system development reference to adapt Linux for operating system.
+- _Results:_ The Japan first large-scale system development reference to adapt Linux as primary operating system for mission critical system.
 
 [TV-Asahi corp. CMS renewal project](http://www.itmedia.co.jp/enterprise/articles/0503/22/news118.html)
 (2004)  
