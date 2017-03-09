@@ -39,7 +39,7 @@
 ![Image](img/ow_mh_inside_2.jpg)  
 
 - _Role:_ Project Manager
-- _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference,including executive summit held in Kyoto
+- _Objectives:_ Promote Oracle Japan Business vision and brand leadership through 3 Day Conference.The world's first conference that connects Tokyo and Kyoto via satellite.
 - _Results:_ 15,000+ attendees with 100 Direct Opportunities,$35M business pipeline 
 
 [some more funny videos!](https://www.youtube.com/watch?v=QOyrynZq_0I/)  
