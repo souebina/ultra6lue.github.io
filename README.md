@@ -1,4 +1,4 @@
-### Sosuke Ebina (Rio)
+### Sosuke Ebina
 ![Image](img/ultra6lue.png)　　
 
 ### skills summary
