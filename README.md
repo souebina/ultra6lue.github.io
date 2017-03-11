@@ -34,7 +34,7 @@
 - _Objectives:_ Project aimed to integrate digital data broadcasting system with an existing web site,scattered customer data as well.  
 - _Results:_ Whole system was safely launched in June 2004 with flexibility and agility.The first case in Japanese B2C website to adapt PHP for primary language.
 
-[Oracle OpenWorld Tokyo 2012](http://www.fujitsu.com/jp/products/computing/servers/unix/sparc-enterprise/events/oracle-ow/2012/correspondent/)
+[Oracle OpenWorld Tokyo 2012](https://japan.zdnet.com/article/35015900/)
 (2012)  
 ![Image](img/ow_mh_inside_2.jpg)  
 
