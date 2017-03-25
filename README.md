@@ -15,9 +15,6 @@
   * Signature event project management
   * Web & Print Content Development    
 
-
-
-
 ### Representative Projects (2000 to 2016)
 
 [Digital Network MP3 Test-Listening System](http://www.atmarkit.co.jp/flinux/jirei/pioneer/pioneer_jirei.html)
@@ -62,4 +59,6 @@
 - _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Dec4,2016)  
 
+
+[![Analytics](https://ga-beacon.appspot.com/UA-96198072-1/chromeskel_a/readme)](img/ga-beacon)
 
