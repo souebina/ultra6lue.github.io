@@ -59,6 +59,6 @@
 - _Objectives:_ Promote Watson and IBM Cloud Business vision and brand leadership through integrated digital campaign.The first large-scale collaboration with the publicity team to make large impact to the market.
 - _Results:_ Effectively formulates strategies, tactics, and action plans to drive results. Exceeded the original goal of Web visits to campaign landing page by 140% (data as of Dec4,2016)  
 
-
+<!-- ga beacon -->
 [![Analytics](https://ga-beacon.appspot.com/UA-96198072-1/ultra6lue.github.io/readme)](img/ga-beacon)
 
