@@ -1,5 +1,5 @@
 ### Sosuke Ebina
-![Image](img/ultra6lue.png)　　
+![Image](img/SE_GitHubio_250x300_mono.jpg)　　
 
 ### skills summary
 
