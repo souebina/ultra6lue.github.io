@@ -1,4 +1,4 @@
-### Sosuke Ebina
+### Sou Ebina
 ![Image](img/SE_GitHubio_250x300_mono.jpg)　　
 
 ### skills summary
