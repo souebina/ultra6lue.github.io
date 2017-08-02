@@ -1,5 +1,5 @@
 ### Sou Ebina
-![Image](img/SE_GitHubio_250x300_mono.jpg)　　
+### ![Image](img/SE_GitHubio_250x300_mono.jpg)　　
 
 ### skills summary
 
